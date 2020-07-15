@@ -26,4 +26,4 @@ alert(v.toMetodo()); // o TypeScript não verifica se o método existe e gera er
 
 //Object - tudo é objeto no JavaScript e no TypeScript
 const v2: Object = 3;
-alert(v2.toExponential());
+//alert(v2.toExponential());
